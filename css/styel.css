@@ -1,0 +1,29 @@
+body{background-image: linear-gradient(red, yellow);}
+textarea {
+    width: 45%;
+  height: 100px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;}
+  .rumus{padding-left: 66px;
+    padding-right: 66px;
+    border: 1px solid white;}
+    .konversi{padding-top: 55px;
+    }
+
+    .area{text-align: center;
+        border: 1px solid wheat;
+        padding-bottom: 20px;
+        padding-top: 20px;}
+        
+        .text1{padding-bottom: 22px;
+        }
+        .text2{padding-bottom: 22px;
+        }
+        .text3{padding-bottom: 22px;
+        }
+    
