@@ -1,14 +1,16 @@
 body{background-image: linear-gradient(red, yellow);}
 textarea {
-    width: 45%;
-  height: 100px;
-  padding: 12px 20px;
+  width: 35%;
+  height: 51px;
+  padding-top: 12px;
+  border-radius: 12px;
   box-sizing: border-box;
   border: 2px solid #ccc;
   border-radius: 6px;
   background-color: #f8f8f8;
   font-size: 16px;
-  resize: none;}
+  resize: none;
+  text-align: center;}
   .rumus{padding-left: 66px;
     padding-right: 66px;
     border: 1px solid white;
@@ -25,9 +27,11 @@ textarea {
         
         .text1{padding-bottom: 22px;
         }
-        .text2{padding-bottom: 22px;
+        .text2{
+          padding-bottom: 44px;
         }
         .text3{padding-bottom: 22px;
+          
         }
     .green{background-color: #25e325;
       border: 0px;
@@ -61,3 +65,37 @@ textarea {
           font-style: normal;
           border: 1px solid whitesmoke;
         }
+        .headrumus{font-size: 17px;
+          line-height: 0;
+          letter-spacing: -0.03em;
+          font-weight: 400;
+          font-style: italic;
+          padding-left: 11px;
+        }
+        .head{font-size: 16px;
+          line-height: 1.3;
+          font-style: italic;
+        }
+        .input{padding-left: 55px;
+          padding-bottom: 44px;
+        }
+        
+        input {
+          border-left-style: solid;
+          border-right-style: solid;
+          border-bottom-style: solid;
+          border-top-style: solid;
+          border-top-width: 0px;
+          border-left-width: 0px;
+          border-right-width: 0px;
+          border-bottom-width: 0px;
+          text-align: center;
+          height: 9px;
+          padding-left: 0px;
+          padding-right: 0px;
+         border-radius: 14px;
+         
+          padding-top: 10px;
+          padding-bottom: 10px;
+          padding-left: 10px;
+          padding-right: 10px;}
